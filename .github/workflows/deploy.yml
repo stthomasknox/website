@@ -17,4 +17,4 @@ jobs:
           api-key: ${{ secrets.STATIC_APP_API_KEY }}
           pid: '5osqg4yudp'
           build-dir: 'build'
-          build-command: 'npm run build'
+          build-command: 'npm install --package-lock-only && npm run build'
