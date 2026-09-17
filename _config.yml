@@ -4,11 +4,17 @@ author:
   name: Rev. Jordan C. Fetcko
   email: jfetcko@dcgary.org
 description: |
-  406 E Washington St.
-  Knox, IN 46534
-  (574) 772-4134
+  406 E Washington St.  
+  Knox, IN 46534  
+  (574) 772-4134  
   stthomasknox@outlook.com
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 minima:
   skin: auto
   hide_site_feed_link: true
+  nav_pages:
+    - about.md
