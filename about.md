@@ -6,4 +6,4 @@ Knox, IN 46534
 ## Phone Number
 (574) 772-4134
 ## Primary Email Address
-stthomasknox@outlook.com
+[stthomasknox@outlook.com](mailto:stthomasknox@outlook.com)
