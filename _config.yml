@@ -1,1 +1,14 @@
+title: St. Thomas Aquinas Catholic Church
 theme: minima
+author:
+  name: Rev. Jordan C. Fetcko
+  email: jfetcko@dcgary.org
+description:
+  406 E Washington St.
+  Knox, IN 46534
+  (574) 772-4134
+  stthomasknox@outlook.com
+
+minima:
+  skin: auto
+  hide_site_feed_link: true
