@@ -1,8 +1,7 @@
 ---
 layout: home
-title: 
+title: null
 ---
-
 ## Knox, IN
 ![](images/churchfacade.jpg)
 [Read the weekly bulletin here!](https://parishesonline.com/organization/st-thomas-aquinas-church-46534)
