@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # St. Thomas Aquinas Catholic Church
 ## Knox, IN
 ![](images/churchfacade.jpg)
