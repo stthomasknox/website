@@ -25,7 +25,7 @@ St. Thomas Aquinas Catholic Church
 406 E Washington St.  
 Knox, IN 46534  
 (574) 772-4134  
-[stthomasknox@outlook.com](mailto:stthomasknox@outlook.com)  
+[parish@stthomasknox.org](mailto:parish@stthomasknox.org)  
 **Fr. Jordan Fetcko, Administrator**
 
 **St. Vincent de Paul Help Line**  
@@ -37,7 +37,7 @@ Rev. Jordan C. Fetcko
 
 Secretary  
 Cathy Raab  
-[stthomasknox@outlook.com](mailto:stthomasknox@outlook.com)
+[parish@stthomasknox.org](mailto:parish@stthomasknox.org)
 
 Director of Religious Education  
 Catherine Phipps  
