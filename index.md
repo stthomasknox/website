@@ -37,11 +37,11 @@ Knox, IN 46534
 ## Parish Staff
 Administrator  
 Rev. Jordan C. Fetcko  
-[jfetcko@dcgary.org](mailto:jfetcko@dcgary.org)
+[jfetcko@stthomasknox.org](mailto:jfetcko@stthomasknox.org)
 
 Secretary  
 Cathy Raab  
-[parish@stthomasknox.org](mailto:parish@stthomasknox.org)
+[craab@stthomasknox.org](mailto:craab@stthomasknox.org)
 
 Director of Religious Education  
 Catherine Phipps  
