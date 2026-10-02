@@ -4,7 +4,11 @@ title: Home
 ---
 
 ![](images/churchfacade.jpg)
-[Read the weekly bulletin here!](https://parishesonline.com/organization/st-thomas-aquinas-church-46534)
+## Quick Links
+- [**Weekly Bulletin**](https://parishesonline.com/organization/st-thomas-aquinas-church-46534)
+- [*Mass Schedule*](#mass-schedule)
+- [*Contact Info*](#contact-info)
+- [Event Calendar](calendar.md)
 ## Mass Schedule
 ### Sunday Masses
 Saturday (anticipatory) | 4:30pm  
