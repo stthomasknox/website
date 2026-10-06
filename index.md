@@ -1,14 +1,15 @@
 ---
 layout: home
-title: Home
+title: St. Thomas Aquinas Catholic Church | Home
 ---
 
 ![](images/churchfacade.jpg)
 ## Quick Links
 - [**Weekly Bulletin**](https://parishesonline.com/organization/st-thomas-aquinas-church-46534)
 - [*Mass Schedule*](#mass-schedule)
-- [*Contact Info*](#contact-info)
+- [*Contact Info*](about.html)
 - [Event Calendar](calendar.html)
+
 ## Mass Schedule
 ### Sunday Masses
 Saturday (anticipatory) | 4:30pm  
