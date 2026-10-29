@@ -7,9 +7,15 @@ title: St. Thomas Aquinas Catholic Church | Home
 ## Quick Links
 - [**Weekly Bulletin**](https://parishesonline.com/organization/st-thomas-aquinas-church-46534)
 - [*Mass Schedule*](#mass-schedule)
-- [*Contact Info*](about.html)
+- [Contact Info](about.html)
 - [Event Calendar](calendar.html)
 
+## News
+![](images/calledbyname2026.jpg)
+### Called by Name
+Our future priests and religious will come from our own parishes and schools. Will you help us to identify and encourage them? Any young person you recommend will receive invitations from the Vocation Office to help them explore God’s call.
+
+[**Click here to submit a name!**](https://garyvocations.com/contact/called-by-name/)
 ## Mass Schedule
 ### Sunday Masses
 Saturday (anticipatory) | 4:30pm  
@@ -46,7 +52,7 @@ Cathy Raab
 
 Director of Religious Education  
 Catherine Phipps  
-(219) 775-1355
+[cphipps@stthomasknox.org](mailto:cphipps@stthomasknox.org)
 
 ***
 *St. Thomas Aquinas Church is a registered 501(c)(3) non-profit organization. Goodstack charity ID: 0103048200*
