@@ -25,7 +25,7 @@ Also, our annual Cookie Walk and mini bazaar will be December 12 from 10:00am to
 Sunday, December 13 after the 9:00am Mass – Come downstairs for fellowship and enjoy Christmas cookies, treats, and snacks from all over the world. If you are able to bring treats from your ethnic heritage, let Jacalynn Ciboch or Ana Perez know!
 
 ### _Fides_: Adult Faith Formation
-Wednesdays after the 5pm Mass
+Wednesdays after the 5pm Mass  
 Zollinger Hall (church basement)
 
 On November 18 learn about the two Sacraments of Service, Holy Orders and Matrimony, and on December 2 begin a four-part Advent journey through the kerygma—the story of our salvation—which will supplement Fr. Jordan’s Advent Sunday homilies.
