@@ -3,7 +3,7 @@ layout: home
 title: St. Thomas Aquinas Catholic Church | Home
 ---
 
-![](images/churchfacade.jpg)
+![](images/churchfacade_banner.jpg)
 ## Quick Links
 - [**Weekly Bulletin**](https://parishesonline.com/organization/st-thomas-aquinas-church-46534)
 - [*Mass Schedule*](#mass-schedule)
