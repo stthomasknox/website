@@ -11,11 +11,25 @@ title: St. Thomas Aquinas Catholic Church | Home
 - [Event Calendar](calendar.html)
 
 ## News
-![](images/calledbyname2026.jpg)
-### Called by Name
-Our future priests and religious will come from our own parishes and schools. Will you help us to identify and encourage them? Any young person you recommend will receive invitations from the Vocation Office to help them explore God’s call.
+### Liturgical Minister Training
+For all current, new, and interested lectors (readers), music ministers, extraordinary ministers of Holy Communion, and ushers.
 
-[**Click here to submit a name!**](https://garyvocations.com/contact/called-by-name/)
+**Either** Monday, November 16 at 7:00pm **or** Friday, November 20 at 9:00am
+
+### Altar & Rosary Society: Christmas Party and “Cookie Walk”
+The Altar & Rosary Society will be meeting December 7 at noon for their annual Christmas luncheon and brief meeting in Zollinger Hall. All ladies of the church are invited to attend, especially if you are interested in joining the Society. Members are asked to bring a gift for Bella Vita.
+
+Also, our annual Cookie Walk and mini bazaar will be December 12 from 10:00am to 2:00pm. All ladies are asked to bake at least 4 dozen cookies and bring them to Zollinger Hall before 9:00am on that day. Please call Cathy Raab if you have any questions.
+
+### Special Meet & Greet: “Cookies around the World”
+Sunday, December 13 after the 9:00am Mass – Come downstairs for fellowship and enjoy Christmas cookies, treats, and snacks from all over the world. If you are able to bring treats from your ethnic heritage, let Jacalynn Ciboch or Ana Perez know!
+
+### _Fides_: Adult Faith Formation
+Wednesdays after the 5pm Mass
+Zollinger Hall (church basement)
+
+On November 18 learn about the two Sacraments of Service, Holy Orders and Matrimony, and on December 2 begin a four-part Advent journey through the kerygma—the story of our salvation—which will supplement Fr. Jordan’s Advent Sunday homilies.
+
 ## Mass Schedule
 ### Sunday Masses
 Saturday (anticipatory) | 4:30pm  
