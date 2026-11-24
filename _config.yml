@@ -3,7 +3,7 @@ author:
   name: Rev. Jordan C. Fetcko
   email: jfetcko@stthomasknox.org
 description: The Catholic community of Knox, IN
-remote_theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme-slate
 
 plugins:
   - jekyll-remote-theme
