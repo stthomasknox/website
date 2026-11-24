@@ -18,3 +18,4 @@ minima:
   hide_site_feed_link: true
   nav_pages:
     - about.md
+    - resources/index.md
