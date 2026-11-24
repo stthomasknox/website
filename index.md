@@ -8,6 +8,7 @@ title: St. Thomas Aquinas Catholic Church | Home
 - [*Mass Schedule*](#mass-schedule)
 - [Contact Info](about.html)
 - [Event Calendar](calendar.html)
+- [Resources](resources/index.html)
 
 ## News
 ### Liturgical Minister Training
