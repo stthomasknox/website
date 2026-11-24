@@ -1,13 +1,9 @@
-title: St. Thomas Aquinas Catholic Church
+title: St. Thomas Aquinas Church
 author:
   name: Rev. Jordan C. Fetcko
   email: jfetcko@stthomasknox.org
-description: |
-  406 E Washington St.  
-  Knox, IN 46534  
-  (574) 772‑4134  
-  parish@stthomasknox.org
-theme: minima
+description: The Catholic community of Knox, IN
+remote_theme: pages-themes/slate@v0.2.0
 
 plugins:
   - jekyll-remote-theme
