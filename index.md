@@ -11,11 +11,6 @@ title: St. Thomas Aquinas Catholic Church | Home
 - [Resources](resources/index.html)
 
 ## News
-### Liturgical Minister Training
-For all current, new, and interested lectors (readers), music ministers, extraordinary ministers of Holy Communion, and ushers.
-
-**Either** Monday, November 16 at 7:00pm **or** Friday, November 20 at 9:00am
-
 ### Altar & Rosary Society: Christmas Party and “Cookie Walk”
 The Altar & Rosary Society will be meeting December 7 at noon for their annual Christmas luncheon and brief meeting in Zollinger Hall. All ladies of the church are invited to attend, especially if you are interested in joining the Society. Members are asked to bring a gift for Bella Vita.
 
@@ -28,7 +23,7 @@ Sunday, December 13 after the 9:00am Mass – Come downstairs for fellowship and
 Wednesdays after the 5pm Mass  
 Zollinger Hall (church basement)
 
-On November 18 learn about the two Sacraments of Service, Holy Orders and Matrimony, and on December 2 begin a four-part Advent journey through the kerygma—the story of our salvation—which will supplement Fr. Jordan’s Advent Sunday homilies.
+On December 2 begin a four-part Advent journey through the kerygma—the story of our salvation—which will supplement Fr. Jordan’s Advent Sunday homilies.
 
 ## Mass Schedule
 ### Sunday Masses
