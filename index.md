@@ -1,5 +1,4 @@
 ---
-layout: home
 title: St. Thomas Aquinas Catholic Church | Home
 ---
 
