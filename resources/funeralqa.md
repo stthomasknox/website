@@ -1,6 +1,21 @@
 # Catholic Funeral Q&A
 _Adapted from a bulletin letter by Fr. Jordan C. Fetcko_
 
+**Q: A loved one just passed away, and we would like a Catholic funeral for him/her. What should we do first?**  
+A: I am sorry for your loss, and the Catholic community at St. Thomas Aquinas shares your grief and wants to support you however we can. The first thing any Christian should do upon the death of a loved one is pray; for example:
+
+> Receive, O Lord, the soul of your servant \[N.],  
+> whom you have mercifully called from this world to yourself.  
+> Freed from the bond of every sin,  
+> may he (she) obtain the happiness of eternal light and rest,  
+> and, among your Saints and chosen ones,  
+> be found worthy to rise in the glory of the resurrection.  
+> Through Christ our Lord.  
+> ℟. Amen.  
+> (_Order of the Anointing of the Sick and of Their Pastoral Care,_ no. 314)
+
+For the sake of simplicity in the midst of an already complex and complicated time, the funeral home will handle most communication with the various parties involved in the funeral, including the parish, for planning and payment purposes. Therefore, your next step is to contact a local funeral home. However, you are certainly free to contact St. Thomas Aquinas Parish directly at [(574) 772-4134](tel:+15747724134) if you have any questions or would like to speak to a priest.
+
 **Q: What is meant by a “Christian funeral”?**  
 A: As Christians, we believe that human beings were made for eternal life, that we lost that destiny through original sin, and that the Death and Resurrection of Jesus Christ reopened the way for us. As the introduction to the *Order of Christian Funerals* states, “The Church’s liturgical and sacramental life and proclamation of the Gospel make this mystery present in the life of the faithful. Through the Sacraments of Baptism, Confirmation, and Eucharist, men and women are initiated into this mystery” (no. 2). Therefore, for those who have received the pledge of eternal life it is most fitting to mark the end of their earthly life with prayer and liturgy. Most essentially, “the Mass, the memorial of Christ’s Death and Resurrection, is the principal celebration of the Christian funeral” (no. 5), but a Christian funeral encompasses more than this. The fullest expression of prayer for the deceased comprises three “stations”: a prayer vigil, the funeral Mass, and the Rite of Committal at the cemetery. Every baptized Catholic—with a limited few serious exceptions (see [*Code of Canon Law,* c. 1184](https://canonlaw.ninja/?nums=1184))—has the right to a Christian funeral, as do catechumens who die before receiving the Sacraments of Initiation.
 
@@ -9,3 +24,4 @@ A: Everything unique to the funeral Mass serves three purposes: 1) to give a rem
 
 **Q: I understand that the Church used to forbid cremation but allows it now. Is this true?**  
 A: Yes, although the reality is more complicated than that. Cremation was practiced among some of the first Christians, but it quickly became frowned upon, as Roman persecutors began burning the bodies of the Christians they killed, thinking this could somehow kill their souls and prevent entrance into heaven. Around the time of the Second Vatican Council cremation was permitted once more, but note how this is expressed in the modern Code of Canon Law: “The Church earnestly recommends that the pious custom of burying the bodies of the deceased be observed; nevertheless, the Church does not prohibit cremation unless it was chosen for reasons contrary to Christian doctrine” ([c. 1176, §3](https://canonlaw.ninja/?nums=1176)). These erroneous beliefs might include “considering death as the definitive annihilation of the person, or the moment of fusion with Mother Nature or the universe, or as a stage in the cycle of regeneration, or as the definitive liberation from the ‘prison’ of the body” ([Instruction *Ad resurgendum cum Christo,* no. 3](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_en.html#:~:text=considering,body)). Burial of an intact body more clearly expresses our belief in the resurrection of the body at the end of time—though, to be clear, it is not our earthly body that will be resurrected, and therefore cremation will not prevent this from occurring. Whether the body is cremated or not, internment in a cemetery or other dedicated, sacred place is necessary, respecting the integrity of the body and encouraging all the faithful still living to pray for our deceased loved ones and for all the dead.
+
