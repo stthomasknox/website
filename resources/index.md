@@ -6,8 +6,8 @@ title: St. Thomas Aquinas Catholic Church | Resources
 _This icon: ⎘ indicates that the link leads to an external site._
 
 ## For Current Parishioners
-- Adult Liturgical Ministers: Review of Training
-- Altar Servers: Detailed Description of Roles
+- [Adult Liturgical Ministers: Review of Training](liturgicalministers.html)
+- [Altar Server Guide](altarserverguide.pdf)
 - Fr. Jordan’s Bulletin Letter Archive
 
 ## For Funeral Directors and Families of the Deceased
