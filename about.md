@@ -5,5 +5,5 @@ St. Thomas Aquinas Catholic Church
 Knox, IN 46534  
 ## Phone Number
 (574) 772-4134
-## Primary Email Address
-[stthomasknox@outlook.com](mailto:stthomasknox@outlook.com)
+## Email Address
+[parish@stthomasknox.org](mailto:parish@stthomasknox.org)
